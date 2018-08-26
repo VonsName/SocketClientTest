@@ -1,9 +1,9 @@
 
-//itcastlog.h 日志头文件
+//mylog.h 日志头文件
 
 
-#ifndef _ITCAST_LOG_H_
-#define _ITCAST_LOG_H_
+#ifndef _MYLOG_H
+#define _MYLOG_H
 
 /*
 #define IC_NO_LOG_LEVEL			0
